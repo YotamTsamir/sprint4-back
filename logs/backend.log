@@ -495,3 +495,59 @@
 5/31/2022, 6:27:45 PM - DEBUG - Getting Boards
 5/31/2022, 6:28:27 PM - INFO - Server is running on port: 3030
 5/31/2022, 6:30:04 PM - DEBUG - Getting Boards
+01/06/2022, 0:10:45 - INFO - Server is running on port: 3030
+01/06/2022, 0:10:54 - DEBUG - Getting Boards
+01/06/2022, 9:39:57 - INFO - Server is running on port: 3030
+01/06/2022, 9:40:19 - DEBUG - Getting Boards
+01/06/2022, 10:55:45 - DEBUG - auth.service - signup with username: rotemspivak, fullname: Rotem Spivak
+01/06/2022, 10:55:45 - DEBUG - auth.service - signup with username: rotemspivak, fullname: Rotem Spivak
+01/06/2022, 10:55:45 - DEBUG - Getting Boards
+01/06/2022, 10:55:45 - DEBUG - auth.route - new account created: {"username":"rotemspivak","password":"$2b$10$jqB5HkYyHOlWzssH8Zd52OLMN28A8JUmOZQpmIpL5ikK0mv/8vU4y","fullname":"Rotem Spivak","email":"rotemspivak@gmail.com","_id":"62971b817c7bde0baed0066e"}
+01/06/2022, 10:55:45 - DEBUG - auth.service - login with username: rotemspivak
+01/06/2022, 10:55:45 - DEBUG - auth.route - new account created: {"username":"rotemspivak","password":"$2b$10$GhBJtFOMwY7BPG5uShdYR.d6DkqwuMIlMv7Vw1WAjVaMvfnt2sxx6","fullname":"Rotem Spivak","email":"rotemspivak@gmail.com","_id":"62971b817c7bde0baed0066f"}
+01/06/2022, 10:55:45 - DEBUG - auth.service - login with username: rotemspivak
+01/06/2022, 10:55:45 - INFO - entry is | asdf
+01/06/2022, 10:55:45 - INFO - entry is | asdf
+01/06/2022, 10:55:45 - INFO - match is | true
+01/06/2022, 10:55:45 - INFO - User login:  | {"_id":"62971b817c7bde0baed0066f","username":"rotemspivak","fullname":"Rotem Spivak","email":"rotemspivak@gmail.com"}
+01/06/2022, 10:55:45 - INFO - match is | true
+01/06/2022, 10:55:45 - INFO - User login:  | {"_id":"62971b817c7bde0baed0066f","username":"rotemspivak","fullname":"Rotem Spivak","email":"rotemspivak@gmail.com"}
+01/06/2022, 10:59:28 - DEBUG - Getting Boards
+01/06/2022, 10:59:36 - DEBUG - Getting Boards
+01/06/2022, 10:59:48 - DEBUG - auth.service - signup with username: rotemspivak, fullname: Rotem Spivak
+01/06/2022, 10:59:48 - DEBUG - auth.service - signup with username: rotemspivak, fullname: Rotem Spivak
+01/06/2022, 10:59:48 - DEBUG - Getting Boards
+01/06/2022, 10:59:48 - DEBUG - auth.route - new account created: {"username":"rotemspivak","password":"$2b$10$MDB1Ui.br2dfvg01uCBML.tICNH8RXRhKQ6TvUXOTxb34HmHmE9Gy","fullname":"Rotem Spivak","email":"rotemspivak@gmail.com","_id":"62971c747c7bde0baed00671"}
+01/06/2022, 10:59:48 - DEBUG - auth.service - login with username: rotemspivak
+01/06/2022, 10:59:48 - DEBUG - auth.route - new account created: {"username":"rotemspivak","password":"$2b$10$.94T36YhDyvavJP5OznXIOdLL6W7rzjE9AASJxeVkuTfW2wyWpbRK","fullname":"Rotem Spivak","email":"rotemspivak@gmail.com","_id":"62971c747c7bde0baed00670"}
+01/06/2022, 10:59:48 - DEBUG - auth.service - login with username: rotemspivak
+01/06/2022, 10:59:48 - INFO - entry is | rs
+01/06/2022, 10:59:48 - INFO - entry is | rs
+01/06/2022, 10:59:48 - INFO - match is | false
+01/06/2022, 10:59:48 - ERROR - Failed to signuppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp Invalid password
+01/06/2022, 10:59:48 - INFO - match is | false
+01/06/2022, 10:59:48 - ERROR - Failed to signuppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp Invalid password
+01/06/2022, 11:25:29 - DEBUG - auth.service - login with username: rotemspivak
+01/06/2022, 11:25:29 - INFO - entry is | asdf
+01/06/2022, 11:25:29 - INFO - match is | true
+01/06/2022, 11:25:29 - INFO - User login:  | {"_id":"62971b817c7bde0baed0066f","username":"rotemspivak","fullname":"Rotem Spivak","email":"rotemspivak@gmail.com"}
+01/06/2022, 11:25:31 - DEBUG - auth.service - login with username: rotemspivak
+01/06/2022, 11:25:31 - INFO - entry is | asdf
+01/06/2022, 11:25:31 - INFO - match is | true
+01/06/2022, 11:25:31 - INFO - User login:  | {"_id":"62971b817c7bde0baed0066f","username":"rotemspivak","fullname":"Rotem Spivak","email":"rotemspivak@gmail.com"}
+01/06/2022, 11:25:33 - DEBUG - auth.service - login with username: rotemspivak
+01/06/2022, 11:25:33 - INFO - entry is | asdf
+01/06/2022, 11:25:33 - INFO - match is | true
+01/06/2022, 11:25:33 - INFO - User login:  | {"_id":"62971b817c7bde0baed0066f","username":"rotemspivak","fullname":"Rotem Spivak","email":"rotemspivak@gmail.com"}
+01/06/2022, 11:25:33 - DEBUG - auth.service - login with username: rotemspivak
+01/06/2022, 11:25:34 - INFO - entry is | asdf
+01/06/2022, 11:25:34 - INFO - match is | true
+01/06/2022, 11:25:34 - INFO - User login:  | {"_id":"62971b817c7bde0baed0066f","username":"rotemspivak","fullname":"Rotem Spivak","email":"rotemspivak@gmail.com"}
+01/06/2022, 11:25:34 - DEBUG - auth.service - login with username: rotemspivak
+01/06/2022, 11:25:34 - INFO - entry is | asdf
+01/06/2022, 11:25:34 - DEBUG - auth.service - login with username: rotemspivak
+01/06/2022, 11:25:34 - INFO - match is | true
+01/06/2022, 11:25:34 - INFO - User login:  | {"_id":"62971b817c7bde0baed0066f","username":"rotemspivak","fullname":"Rotem Spivak","email":"rotemspivak@gmail.com"}
+01/06/2022, 11:25:34 - INFO - entry is | asdf
+01/06/2022, 11:25:34 - INFO - match is | true
+01/06/2022, 11:25:34 - INFO - User login:  | {"_id":"62971b817c7bde0baed0066f","username":"rotemspivak","fullname":"Rotem Spivak","email":"rotemspivak@gmail.com"}
