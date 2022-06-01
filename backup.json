@@ -62,7 +62,7 @@
     "style" : {
         "backgroundImage" : "url(https://img.freepik.com/free-vector/gradient-background-vector-spring-colors_53876-117271.jpg?w=360)"
     }, 
-    "title" : "Hello"
+    "title" : "My Board"
 }
 
 
@@ -129,6 +129,6 @@
     "style" : {
         "backgroundImage" : "url(https://img.freepik.com/free-vector/gradient-background-vector-spring-colors_53876-117271.jpg?w=360)"
     }, 
-    "title" : "shlaga bigi baga!", 
+    "title" : "My Board", 
     "_id" : ObjectId("6294a0c14306af78698b2a81")
 }
